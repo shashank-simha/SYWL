@@ -1,0 +1,20 @@
+.unstyled {
+    list-style: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.unstyled li {
+    list-style: none;
+}
+
+.revolution-switch-theme {
+    list-style: none;
+    padding: 0px;
+}
+.revolution-switch-theme li {
+   display: inline-block;
+}
+
+.revolution-switch-theme li a.button {
+    color: #444444 !important;
+}

@@ -1,0 +1,746 @@
+@media only screen and (min-width: 992px) and (max-width: 5000px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+.event-speaker-gallery {
+width: 25%;
+}	
+.shedule-img {
+	width: 110px;
+	height: 110px;
+}
+.contact-field h1 {
+	font-size: 30px;
+}
+.shedule-content h3 {
+	font-size: 16px;
+}
+.search-forum {
+  left: -200px;
+}
+.main-menu ul li a {
+	padding: 28px 3px;
+}
+.slider-text {
+padding: 40px 30px;
+width: 991px;
+}
+.slider-text h1{
+font-size: 48px;	
+}
+.thum-caption h3 a {
+	font-size: 20px;
+}
+.section-heading {
+	margin: 0px 140px 55px;
+}
+.speaker {
+width: 25%;
+}
+
+}
+@media only screen and (min-width: 812px) and (max-width: 991px){
+.slider-text{
+	width: 82%;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+body {
+font-size: 15px;
+line-height: 24px;
+}	
+h1 {
+font-size: 22px;
+}
+h2 {
+font-size: 18px;
+}
+h3 {
+font-size: 16px;
+}	
+.pt-100{padding-top:80px;}
+.pb-100{padding-bottom:80px;}
+.pb-70{padding-bottom:40px;}
+.logo {
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 0;
+}
+.all-slide .owl-item {
+  	height:600px;
+}
+.shedule-img {
+	width: 110px;
+	height: 110px;
+}
+.event-speaker-gallery {
+width: 33.33%;
+}
+.mean-container a.meanmenu-reveal {
+	background: transparent;
+}
+.main-menu{
+	margin-right: 142px;
+}
+.main-menu ul li a {
+padding: 25px 6px;
+}
+.buy-ticket {
+	padding: 20px 1px;
+}
+.thumb-img{
+	margin-bottom: 30px;
+}
+.sec-title {
+	margin: 0px 0px 50px 0px;
+}
+.count-up-inner {
+	margin: 20px 0;
+}
+.hd-sec {
+	position:fixed;
+}
+.slider-text {
+	width: 100%;
+}
+.shedule-icon {
+	 float: none; 
+}
+.shedule-text {
+	float: none;
+	text-align: center;
+	padding-left: 0px;
+}
+.shedule-icon img {
+	margin-bottom: 30px;
+}
+.shedule-icon {
+	 display: block; 
+}
+.service-heading h1 {
+	line-height: 36px;
+	font-size: 30px;
+}
+.section-heading {
+	text-align: center;
+	margin: 0px 50px 55px;
+}
+.call-to-action {
+	padding: 77px 0;
+}
+.contact-field {
+	margin-bottom: 30px;
+}
+.discount span {
+	font-size: 28px;
+}
+.pricing-table ul li {
+	font-size: 14px;
+}
+.news-content ul li a {
+	padding: 10px 16px;
+}
+.speaker {
+	width: 50%;
+}
+.shedule-nav ul li a {
+	font-size: 16px;
+	padding: 12px 10px;
+}
+.shedule-nav {
+	margin-bottom: 30px;
+} 
+.shedule-nav .nav-tabs > li {
+	float: left;
+}
+.tab-wrapper {
+	padding: 60px 0px 10px 23px;
+}
+.shedule-content h3 {
+	font-size: 16px;
+}
+.faq .panel-title > a, .panel-title > a:active {
+	padding: 10px 0;
+}
+.faq .panel-title > a{
+	font-size: 18px;
+}
+.faq .panel-title {
+	line-height: 30px;
+}
+.gallery {
+	width: 25%;
+}
+.panel-body {
+	padding: 0px 0px 25px; 
+}
+.pricing-table {
+	margin-bottom: 30px;
+}
+.news-content {
+	border: 1px solid #d9d9d9;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.slider-text h1 {
+font-size: 36px;
+}
+.slider-caption span {
+font-size: 34px;
+}
+.service-heading {
+	margin: 0px 0px 50px;
+}
+.service-main {
+	margin-bottom: 30px;
+}
+.shedule-text h4 {
+	font-size: 18px;
+}
+.section-heading h1 {
+	font-size:28px;
+}
+.call-content h1 {
+font-size: 28px;
+}
+.service-event-section::before {
+font-size: 140px;
+}
+.pricing-table ul li {
+padding: 14px 0px;
+}
+.pricing-button {
+font-size: 16px;
+}
+.btn-detail {
+font-size: 14px;
+}
+.right-sidebar {
+	margin-top: 40px;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+body {
+font-size: 14px;
+line-height: 24px;
+}	
+h1 {
+font-size: 22px;
+}
+h2 {
+font-size: 18px;
+}
+h3 {
+font-size: 16px;
+}
+.pt-100{padding-top:80px;}
+.pb-100{padding-bottom:80px;}
+.envent-countdown-section {
+	margin-top: -170px;
+	position: relative;
+	z-index: 9;
+}
+.logo {
+	padding: 20px 0;
+	z-index: 1;
+}
+.mean-container a.meanmenu-reveal {
+	background: transparent;
+}
+.all-slide .owl-item {
+	height: 580px;
+}
+.slider-text{
+	width: 100%;
+}
+.slider-text h1 {
+	font-size: 32px;
+}
+.shedule-detail {
+	margin-bottom: 30px;
+}
+.service-heading h1 {
+	font-size: 26px;
+	line-height: 38px;
+}
+.thum-caption {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+.section-heading {
+	margin: 0px 0px 55px;
+}
+.event-speaker-gallery{
+	width: 50%;
+}
+.shedule-icon {
+	 float: none; 
+	 display: block;
+	 margin-bottom: 30px;
+}
+.shedule-text {
+	float: none;
+	 padding-left: 0px; 
+	 text-align: center; 
+}
+.shedule-nav ul li a {
+	margin-bottom: 5px;
+	font-size: 15px;
+	 padding: 14px 15px; 
+}
+.shedule-img {
+	float: left;
+	margin-right: 15px;
+}
+.shedule-nav ul li a {
+	font-size: 16px;
+	padding: 12px 14px;
+}
+.shedule-nav {
+	margin-bottom: 30px;
+} 
+.shedule-nav .nav-tabs > li {
+	float: left;
+}
+.mean-container .mean-nav {
+	background: #0984e2;
+}
+.mean-container .mean-nav ul li a{
+	border-top: 1px solid #fff;
+	font-weight: 600;
+}
+.mean-container .mean-nav ul li a:hover{
+	border-top: 1px solid #fff;
+	background: #0473c8;
+}
+.shedule-time{
+	margin-top: 6px;
+	display: inline-block;
+}
+.time-icon {
+	 line-height: 28px; 
+}
+.speaker {
+	width: 50%;
+}
+.call-to-action {
+	padding: 77px 0;
+}
+
+.gallery {
+	width: 50%;
+}
+.news-content {
+	border: 1px solid #d9d9d9;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.call-content {
+	margin: 0 90px 0;
+}
+.client {
+	 width:inherit; 
+
+}
+.countdown-item {
+	width: 100%;
+}
+.countdown-item {
+	padding: 40px 0 30px 0;
+}
+.buy-ticket {
+	position: inherit;
+	left: -100px;
+	padding: 16px 1px;
+}
+.service-heading {
+	margin: 0px 0px 50px;
+}
+.service-main {
+	margin-bottom: 30px;
+}
+.shedule-nav ul li {
+	text-align: center;
+	width: 100%;
+}
+.shorttitle h2 {
+	color: #fff;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	display: inline-block;
+	margin-left: 10px;
+}
+.shorttitle{background: #0984e2 none repeat scroll 0 0;
+display: block;
+margin-bottom: 40px;
+padding: 20px;}
+#navbarfiltr.navbar-collapse {
+  border: 0;
+  box-shadow: none;
+}
+.navbarsort .navbar-toggle {
+	background: transparent;
+	margin-top: 15px;
+	border-radius: 0;
+}
+.navbarsort .navbar-toggle .icon-bar {
+  background: #fff;
+}
+.shorttitle {
+	margin-bottom: 4px;
+}
+.event-caption{
+	padding:0 25px;
+}
+.faq{
+	margin-top: 30px;
+}
+.pricing-table{
+	margin-bottom: 30px;
+}
+.contact-info{
+	width: 100%;
+}
+.contact-field.contact-form {
+	width: 100%;
+	padding: 80px 40px 30px;
+}
+.contact-form-sec {
+	position: inherit; 
+	width: inherit; 
+}
+#map_id {
+	height: 500px;
+	width: 100%;
+}
+.faq .panel-title > a, .panel-title > a:active {
+	font-size: 18px;
+	line-height: 30px;
+}
+.event-timer {
+font-size: 38px;
+}
+.event-label h3 {
+font-size: 18px;
+}
+.service-event-section::before {
+font-size: 100px;
+}
+.section-heading.section-shape-heading::before {
+font-size: 80px;
+}
+.tab-wrapper {
+	margin: 80px 0;
+}
+.call-content h1 {
+	font-size: 26px;
+	line-height: 38px;
+	margin-bottom:10px;
+}
+.section-heading h1 {
+	font-size: 28px;
+}
+.pricing-table ul li {
+padding: 14px 0px;
+}
+.pricing-button {
+font-size: 16px;
+}
+.btn-detail {
+font-size: 14px;
+}
+.contact-field h1,
+.contact-info h1 {
+	font-size: 24px;
+}
+.envent-countdown-section {
+	margin-top: 100px;
+}
+.news-content ul li a {
+padding: 10px 10px;
+}
+.right-sidebar {
+	margin-top: 40px;
+}
+.page-banner {
+	padding-top: 150px;
+	padding-bottom: 70px;
+}
+.page-banner h1 {
+font-size: 28px;
+}
+.post-content h2 a {
+font-size: 20px;
+}
+.logo a {
+	position: relative;
+	z-index: 99;
+}
+
+}
+
+@media only screen and (min-device-width : 0px) and (max-device-width : 678px) {
+	.event-item{
+		width: 50%;
+	}
+	.call-content {
+		margin: 0px 0px 0;
+	}
+}
+
+@media only screen and (min-device-width : 0px) and (max-device-width : 589px) {
+	.section-heading h1 {
+		font-size: 25px;
+	}
+	.contact-field h1 {
+		font-size: 25px;
+	}
+	.contact-field h1 {
+		font-size: 25px;
+	}
+	.shedule-heading h1 {
+		font-size: 25px;
+	}
+	.call-content h1{
+		font-size: 30px;
+	}
+	.event-timer {
+		font-size: 40px;
+	}
+	.event-caption h4 {
+		font-size: 14px;
+	}
+	.event-caption h3{
+		font-size: 18px;
+	}
+	.event-caption p{
+		font-size: 14px;
+	}
+	.contact-field input {
+		font-size: 14px;
+	}
+	.single-input-field textarea {
+		font-size: 14px;
+	}
+	.discount h3 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+	.discount span {
+		font-size: 30px;
+	}
+}
+@media only screen and (min-width: 0px) and (max-width: 642px){
+.slider-text h1 {
+	font-size: 48px;
+}
+.countdown-label h3 {
+	font-size: 22px;
+}
+.countdown-timer {
+	font-size: 36px;
+}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 535px){
+.slider-text h1 {
+	font-size: 40px;
+}
+.buy-ticket {
+	left: -55px;
+}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 430px){
+	.hd-sec {
+	padding: 0 0 40px;
+}
+.buy-ticket {
+display:none;
+}
+	.logo {
+		width: 160px;
+	}
+	.header-left li {
+		width: 100%;
+		padding: 0;
+		text-align: center;
+	}
+	.header-left li::before {
+		display:none;
+	}
+	.mean-container a.meanmenu-reveal {
+		margin-top: -56px;
+	}
+	.subscribe-field input[type="email"] {
+		width: 180px;
+	}	
+}
+@media only screen and (min-width: 0px) and (max-width: 482px){
+	.logo {
+	padding: 20px 0;
+	z-index: 1;
+	width: 140px;
+}
+	.event-speaker-gallery {
+	width: 100%;
+}
+.shedule-content h3 {
+	font-size: 17px;
+
+}
+.event-caption {
+	padding: 0 74px;
+	text-align: center;
+}
+.event-item {
+	padding: 30px 0 30px 0;
+}
+.event-timer {
+	font-size: 30px;
+}
+.service-heading h1 {
+	font-size: 22px;
+}
+.call-content h1 {
+	font-size: 25px;
+}
+.shedule-img {
+	width: 120px;
+	height: 120px;
+}
+.load-more-button a {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.reg-btn {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.submit-btn a {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.discount small {
+	font-size: 18px;
+}
+.discount span {
+	font-size: 25px;
+}
+.discount h3 {
+	font-size: 22px;
+}
+.pricing-button {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.client p {
+	font-size: 16px;
+}
+.news-inner h3 {
+	font-size: 18px;
+}
+.btn-detail {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+.contact-field .single-input-fieldsbtn input[type="submit"] {
+	font-size: 16px;
+	padding: 10px 20px;
+}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 482px){
+	.shedule-img {
+		width: 80px;
+		height: 80px;
+	}
+	.shedule-img {	
+		margin-top: -10px;
+	}
+	.shedule-content {
+		padding-left: 100px;
+	}
+	.shedule-content h3 {
+		font-size: 15px;
+	}
+	.shedule-content span {
+		font-size: 12px;
+	}
+	.time-icon {
+		line-height: 22px;
+	}
+	.gallery {
+		width: 100%;
+	}
+}
+@media only screen and (min-width: 0px) and (max-width: 378px){
+	body{
+		font-size: 14px;
+	}
+	p{
+		font-size: 14px;
+	}
+	ul li a{
+		font-size: 14px;
+	}
+	.pricing-table ul li {
+	font-size: 14px;
+	}
+	.hd-sec {
+		padding: 0 0 5px;
+	}
+	.buy-ticket {
+		left: 0px;
+		top: 0;
+	}
+	.section-heading h1 {
+		font-size: 20px;
+	}
+	.shedule-heading h1 {
+		font-size: 20px;
+	}
+	.call-content h1 {
+	font-size: 20px;
+}
+.contact-field h1 {
+	font-size: 20px;
+}
+.contact-info h1 {
+	font-size: 20px;
+}
+.shedule-text h4 {
+	font-size: 20px;
+}
+.thum-caption h3 a {
+	font-size: 20px;
+}
+.event-caption {
+	padding: 0 50px;
+}
+.news-content ul a {
+	font-size: 14px;
+	padding: 10px 20px;
+}
+}
+@media only screen and (min-width: 812px) and (max-width: 991px){
+.slider-text{
+	width: 82%;
+}
+}
+
+
+
+@media only screen and (min-width: 515px) and (max-width: 767px) {
+
+
+}
+
+
+
+

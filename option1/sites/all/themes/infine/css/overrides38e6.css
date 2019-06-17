@@ -1,0 +1,24 @@
+#wrapper {
+    position: relative;
+}
+body.toolbar .navbar-fixed-top {
+    top: 30px
+}
+
+body.toolbar-drawer .navbar-fixed-top {
+    top: 65px
+}
+
+@media (min-width:980px) and (max-width:1199px),(min-width:1200px) {
+    body.toolbar-drawer
+    {
+        padding-top: 65px;
+    }
+
+    body.toolbar-drawer .navbar-fixed-top {
+        top: 65px;
+    }
+}
+
+@media (max-width:767px),(min-width:768px) and (max-width:979px) {
+}
